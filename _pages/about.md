@@ -27,6 +27,6 @@ latest_posts:
 
 I'm a third year DPhil student in the Department of Statistics at the University of Oxford, supervised by [Mark van der Wilk](https://mvdw.uk/) and [François Caron](https://www.stats.ox.ac.uk/people/francois-caron). I'm particularly interested about e-values, prediction-powered inference, and anytime-valid confidence sequences—methods that enable rigorous, sequentially valid learning and uncertainty quantification in adaptive workflows. I'm excited about bridging theory and practice to make these ideas useful in real-world machine learning.
 
-Prior to coming to Oxford, I studied at Bocconi University in Milan. In my free time, I enjoy running, dominating low-rank players on [chess.com](chess.com) and rating [Tesco Meal Deals](https://www.reddit.com/r/MealDealRates/).
+Prior to coming to Oxford, I studied at Bocconi University in Milan. In my free time, I enjoy running, dominating low-rank players on [chess.com](https://www.chess.com/) and rating [Tesco Meal Deals](https://www.reddit.com/r/MealDealRates/).
 
 Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/stefano-cortinovis/)!
