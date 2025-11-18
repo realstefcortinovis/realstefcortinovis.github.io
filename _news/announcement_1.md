@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "SymDiff: Equivariant Diffusion via Stochastic Symmetrisation" was accepted at [ICLR 2025](https://arxiv.org/abs/2410.06262).
