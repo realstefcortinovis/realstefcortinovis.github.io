@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-symdiff-equivariant-diffusion-via-stochastic-symmetrisation-was-accepted-at-iclr-2025",
-          title: 'Our paper “SymDiff: Equivariant Diffusion via Stochastic Symmetrisation” was accepted at ICLR 2025....',
+            },},{id: "news-i-started-my-dphil-at-the-university-of-oxford",
+          title: 'I started my DPhil at the University of Oxford.',
           description: "",
           section: "News",},{id: "news-our-paper-symdiff-equivariant-diffusion-via-stochastic-symmetrisation-was-accepted-at-iclr-2025",
           title: 'Our paper “SymDiff: Equivariant Diffusion via Stochastic Symmetrisation” was accepted at ICLR 2025....',
