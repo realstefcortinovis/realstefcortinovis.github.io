@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our preprint "Active Learning with Task-Driven Representations for Messy Pools" is now available on [arXiv](https://arxiv.org/abs/2510.25926).
+Our paper "Anytime-valid, Bayes-assisted, Prediction-Powered Inference" was accepted at [NeurIPS 2025](https://arxiv.org/pdf/2505.18000).
