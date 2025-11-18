@@ -412,14 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-symdiff-equivariant-diffusion-via-stochastic-symmetrisation-was-accepted-at-iclr-2025",
+            },},{id: "news-our-paper-symdiff-equivariant-diffusion-via-stochastic-symmetrisation-was-accepted-at-iclr-2025",
           title: 'Our paper “SymDiff: Equivariant Diffusion via Stochastic Symmetrisation” was accepted at ICLR 2025....',
           description: "",
           section: "News",},{id: "news-our-paper-symdiff-equivariant-diffusion-via-stochastic-symmetrisation-was-accepted-at-iclr-2025",
           title: 'Our paper “SymDiff: Equivariant Diffusion via Stochastic Symmetrisation” was accepted at ICLR 2025....',
+          description: "",
+          section: "News",},{id: "news-our-preprint-active-learning-with-task-driven-representations-for-messy-pools-is-now-available-on-arxiv",
+          title: 'Our preprint “Active Learning with Task-Driven Representations for Messy Pools” is now available...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
