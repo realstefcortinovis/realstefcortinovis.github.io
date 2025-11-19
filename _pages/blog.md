@@ -3,7 +3,6 @@ layout: default
 permalink: /blog/
 title: Blog
 nav: false
-published: false
 nav_order: 1
 pagination:
   enabled: true
