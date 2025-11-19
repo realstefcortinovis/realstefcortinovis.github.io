@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "FAB-PPI: Frequentist, Assisted by Bayes, Prediction-Powered Inference" was accepted at [ICML 2025]([https://arxiv.org/abs/2410.06262](https://arxiv.org/pdf/2502.02363)).
+Our paper [FAB-PPI: Frequentist, Assisted by Bayes, Prediction-Powered Inference](https://arxiv.org/abs/2410.06262) was accepted at .
