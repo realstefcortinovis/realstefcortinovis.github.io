@@ -400,7 +400,7 @@ ninja.data = [{
           title: 'Our preprint Confidence sequences with informative, bounded-influence priors is now online!',
           description: "",
           section: "News",},{id: "news-our-paper-anytime-valid-bayes-assisted-prediction-powered-inference-was-accepted-at-neurips-2025",
-          title: 'Our paper “Anytime-valid, Bayes-assisted, Prediction-Powered Inference” was accepted at NeurIPS 2025.',
+          title: 'Our paper Anytime-valid, Bayes-assisted, Prediction-Powered Inference was accepted at NeurIPS 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
