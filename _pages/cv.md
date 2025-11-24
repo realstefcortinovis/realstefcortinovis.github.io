@@ -1,11 +1,14 @@
 ---
-layout: cv
+layout: archive
+title: "Curriculum Vitae"
 permalink: /cv/
-title: cv
-nav: false
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+author_profile: true
+redirect_from:
+  - /resume
+ref: cv
 ---
+
+<iframe src="/assets/pdf/cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+
+My [linkedin profile](https://www.linkedin.com/in/stefano-cortinovis/) is updated more regularly. 
