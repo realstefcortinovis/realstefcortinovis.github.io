@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Anytime-valid, Bayes-assisted, Prediction-Powered Inference](https://arxiv.org/pdf/2505.18000) was accepted at NeurIPS 2025.
+Our paper [Anytime-valid, Bayes-assisted, Prediction-Powered Inference](https://arxiv.org/abs/2505.18000) was accepted at NeurIPS 2025.
