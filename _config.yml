@@ -291,6 +291,7 @@ enable_openpanel_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
 enable_math: false
+enable_darkmode: true
 
 # -----------------------------------------------------------------------------
 # Library versions
