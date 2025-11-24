@@ -339,6 +339,7 @@ enable_pirsch_analytics: false
 enable_openpanel_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
+enable_math: false
 
 # -----------------------------------------------------------------------------
 # Library versions
