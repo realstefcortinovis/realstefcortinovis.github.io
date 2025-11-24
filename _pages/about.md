@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a third year DPhil student in the Department of Statistics at the University of Oxford, supervised by [Mark van der Wilk](https://mvdw.uk/) and [François Caron](https://www.stats.ox.ac.uk/people/francois-caron). I'm particularly interested in e-values, prediction-powered inference, and anytime-valid confidence sequences—methods that enable rigorous, sequentially valid learning and uncertainty quantification in adaptive workflows. I'm excited about bridging theory and practice to make these ideas useful in real-world machine learning.
+I'm a third year DPhil student in the Department of Statistics at the University of Oxford, supervised by [Mark van der Wilk](https://mvdw.uk/) and [François Caron](https://www.stats.ox.ac.uk/~caron/). I'm particularly interested in e-values, prediction-powered inference, and anytime-valid confidence sequences—methods that enable rigorous, sequentially valid learning and uncertainty quantification in adaptive workflows. I'm excited about bridging theory and practice to make these ideas useful in real-world machine learning.
 
 I'm the Secretary of the executive committee and Vice President of the scientific committee of the [Oxford Young Statisticians Seminar](https://youngstatmlseminar.github.io).
 
