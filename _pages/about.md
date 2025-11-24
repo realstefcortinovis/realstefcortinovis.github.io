@@ -29,7 +29,7 @@ I'm a third year DPhil student in the Department of Statistics at the University
 
 I'm the Secretary of the executive committee and Vice President of the scientific committee of the [Oxford Young Statisticians Seminar](https://youngstatmlseminar.github.io).
 
-I'm leading the reading group on Hypothesis Testing with E-value at the University of Oxford.
+I'm leading the [Hypothesis Testing with E-value](https://github.com/oxcsml/evalues-reading-group) at Oxford Statistics.
 
 Prior to coming to Oxford, I studied at Bocconi University in Milan. In my free time, I enjoy running, playing chess and coming up with new recipes!
 
