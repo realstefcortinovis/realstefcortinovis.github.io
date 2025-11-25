@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-social: false
+social: true
 profile:
   align: right
   image: prof_pic.png
