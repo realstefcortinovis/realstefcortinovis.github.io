@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "My [linkedin profile](https://www.linkedin.com/in/stefano-cortinovis/) is updated more regularly.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
