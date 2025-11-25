@@ -1,4 +1,11 @@
 {% capture footer_contents %}
+
+  {% if page.social %}
+    <div class="social" style="font-size: 50%; margin-bottom: 10px;">
+      <div class="contact-icons">{% include social.liquid %}</div>
+      <div class="contact-note">{{ site.contact_note }}</div>
+    </div>
+  {% endif %}
   &copy; Copyright {{ site.time | date: '%Y' }}
   {{ site.first_name }}
   {{ site.middle_name }}

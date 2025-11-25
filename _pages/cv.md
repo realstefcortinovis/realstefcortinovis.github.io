@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 nav: true
+social: true # includes social icons at the bottom of the page
 ---
 
 <iframe src="../assets/pdf/cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
