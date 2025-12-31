@@ -1,9 +1,0 @@
----
-layout: page
-permalink: /talks/
-title: Talks
-nav: true
-social: true # includes social icons at the bottom of the page
----
-
-Page in built 
