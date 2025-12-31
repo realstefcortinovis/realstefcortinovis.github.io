@@ -24,12 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a third year DPhil student in the Department of Statistics at the University of Oxford, supervised by [Mark van der Wilk](https://mvdw.uk/) and [François Caron](https://www.stats.ox.ac.uk/~caron/). I'm particularly interested in e-values, prediction-powered inference, and anytime-valid confidence sequences—methods that enable rigorous, sequentially valid learning and uncertainty quantification in adaptive workflows. I'm excited about bridging theory and practice to make these ideas useful in real-world machine learning.
+I am a PhD student in the Department of Statistics at the University of Oxford, supervised by [François Caron](https://www.stats.ox.ac.uk/~caron/) and [Mark van der Wilk](https://mvdw.uk/). My research sits at the intersection of statistics and machine learning, with a focus on uncertainty quantification and Bayesian inference.
 
-I'm the Secretary of the executive committee and Vice President of the scientific committee of the [Oxford Young Statisticians Seminar](https://youngstatmlseminar.github.io).
+A recurring theme in my work is *Bayes-assisted* methodology: incorporating prior information into frequentist procedures to improve their efficiency while maintaining their guarantees. In this context, I have been working on e-values and prediction-powered inference, developing methods that provide reliable uncertainty statements while leveraging modern ML models in sequential workflows. Looking ahead, I am excited to explore conformal prediction and generative modelling from similar perspectives.
 
-I'm leading the [Hypothesis Testing with E-value reading group](https://github.com/oxcsml/evalues-reading-group) at Oxford Statistics.
+Beyond research, I enjoy taking an active role in the communities I am part of. I serve as student representative for the [StatML CDT](https://statml.io/), and I help organise the [Oxford Young Statisticians Seminar](https://youngstatmlseminar.github.io/) and the [E-values Reading Group](https://github.com/oxcsml/evalues-reading-group/) at Oxford Statistics.
 
-Prior to coming to Oxford, I studied at Bocconi University in Milan. In my free time, I enjoy running, playing chess and coming up with new recipes!
+Before coming to Oxford, I studied at Bocconi University in Milan, where I completed a BSc in Economics and Computer Science and an MSc in Data Science under the supervision of [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/). Outside of work, I like running in pretty places and reading [random Wikipedia entries](https://en.wikipedia.org/wiki/Special:Random).
 
-Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/stefano-cortinovis/)!
+If you’d like to chat, feel free to reach out via <a href="mailto:cortinovis@stats.ox.ac.uk">email</a> or [LinkedIn](https://www.linkedin.com/in/stefano-cortinovis/)!
