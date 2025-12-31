@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /talks/
+title: Talks
 nav: true
 social: true # includes social icons at the bottom of the page
 ---
