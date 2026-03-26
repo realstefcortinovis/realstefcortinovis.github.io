@@ -41,7 +41,7 @@ body.sticky-bottom-footer {
 
 .fixed-bottom-socials {
   position: fixed !important;
-  bottom: 15px !important; 
+  bottom: 0 !important; // Sits right at the bottom edge
   left: 0;
   width: 100%;
   z-index: 9999 !important; 
@@ -52,43 +52,27 @@ body.sticky-bottom-footer {
     display: inline-block;
     pointer-events: auto;   
     margin: 0;
-    padding: 5px 15px;
-    /* Optional: background: var(--global-bg-color); border-radius: 20px; opacity: 0.9; */
-
+    
+    // This is the fix for the transparency:
+    background-color: var(--global-bg-color); 
+    border-top: 1px solid var(--global-divider-color); 
+    padding: 10px 20px;
+    width: 100%; // Makes it a solid bar across the bottom
+    
     .contact-icons {
-      // Overriding the 2rem/3.5rem sizes from _base.scss
       font-size: 1.5rem !important; 
 
       a {
-        margin: 0 8px; // Space between icons
+        margin: 0 12px;
         
         i::before {
-          color: var(--global-text-color) !important; // Or use --global-theme-color
-          transition: all 0.2s ease-in-out;
+          color: var(--global-text-color) !important; 
         }
 
         &:hover i::before {
-          color: var(--global-theme-color) !important;
-        }
-
-        // Fix for SVG icons if you use them
-        svg {
-          width: 1.5rem !important;
-          height: 1.5rem !important;
-          margin-bottom: 0 !important;
-        }
-        
-        // Fix for Image icons
-        img {
-          width: 1.5rem !important;
-          height: 1.5rem !important;
-          margin-bottom: 0 !important;
+          color: var(--global-theme-color) !important; 
         }
       }
-    }
-    
-    .contact-note {
-      display: none !important; // Hide the note to keep the floating bar clean
     }
   }
 }
