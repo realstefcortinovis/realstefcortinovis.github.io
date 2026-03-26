@@ -41,7 +41,7 @@ body.sticky-bottom-footer {
 
 .fixed-bottom-socials {
   position: fixed !important;
-  bottom: 20px !important; 
+  bottom: 15px !important; 
   left: 0;
   width: 100%;
   z-index: 9999 !important; 
@@ -52,15 +52,43 @@ body.sticky-bottom-footer {
     display: inline-block;
     pointer-events: auto;   
     margin: 0;
-    text-align: center;
+    padding: 5px 15px;
+    /* Optional: background: var(--global-bg-color); border-radius: 20px; opacity: 0.9; */
 
     .contact-icons {
-      font-size: 2rem; // Matches your _base.scss preference
-      
-      a i::before {
-        // Adds a tiny shadow so icons are readable over text/images
-        text-shadow: 0px 0px 8px var(--global-bg-color);
+      // Overriding the 2rem/3.5rem sizes from _base.scss
+      font-size: 1.5rem !important; 
+
+      a {
+        margin: 0 8px; // Space between icons
+        
+        i::before {
+          color: var(--global-text-color) !important; // Or use --global-theme-color
+          transition: all 0.2s ease-in-out;
+        }
+
+        &:hover i::before {
+          color: var(--global-theme-color) !important;
+        }
+
+        // Fix for SVG icons if you use them
+        svg {
+          width: 1.5rem !important;
+          height: 1.5rem !important;
+          margin-bottom: 0 !important;
+        }
+        
+        // Fix for Image icons
+        img {
+          width: 1.5rem !important;
+          height: 1.5rem !important;
+          margin-bottom: 0 !important;
+        }
       }
+    }
+    
+    .contact-note {
+      display: none !important; // Hide the note to keep the floating bar clean
     }
   }
 }
