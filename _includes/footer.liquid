@@ -1,11 +1,13 @@
-{% capture footer_contents %}
-
+{% capture social_icons %}
   {% if page.social %}
-    <div class="social" style="font-size: 50%; margin-bottom: 10px;">
+    <div class="social-sticky-bottom">
       <div class="contact-icons">{% include social.liquid %}</div>
       <div class="contact-note">{{ site.contact_note }}</div>
     </div>
   {% endif %}
+{% endcapture %}
+
+{% capture footer_text_only %}
   &copy; Copyright {{ site.time | date: '%Y' }}
   {{ site.first_name }}
   {{ site.middle_name }}
@@ -18,20 +20,17 @@
   {% endif %}
 {% endcapture %}
 
-{% if site.footer_fixed %}
-  <footer class="fixed-bottom" role="contentinfo">
-    <div class="container mt-0">
-      {{ footer_contents }}
-    </div>
-  </footer>
-{% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
-    {% if site.newsletter.enabled %}
-      {% include newsletter.liquid %}
-    {% endif %}
+<div class="fixed-bottom-socials">
+  <div class="container">
+    {{ social_icons }}
+  </div>
+</div>
 
-    <div class="container">
-      {{ footer_contents }}
-    </div>
-  </footer>
-{% endif %}
+<footer class="mt-5" role="contentinfo">
+  {% if site.newsletter.enabled %}
+    {% include newsletter.liquid %}
+  {% endif %}
+  <div class="container">
+    {{ footer_text_only }}
+  </div>
+</footer>
