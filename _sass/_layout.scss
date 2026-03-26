@@ -53,11 +53,10 @@ body.sticky-bottom-footer {
     pointer-events: auto;   
     margin: 0;
     
-    // This is the fix for the transparency:
     background-color: var(--global-bg-color); 
     border-top: 1px solid var(--global-divider-color); 
     padding: 10px 20px;
-    width: 100%; // Makes it a solid bar across the bottom
+    width: 100%; 
     
     .contact-icons {
       font-size: 1.5rem !important; 
