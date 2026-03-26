@@ -39,41 +39,30 @@ body.sticky-bottom-footer {
 }
 
 
-/* Overriding base to separate Social Icons from Footer */
-
-// 1. Position the Social Wrapper fixed to the screen
 .fixed-bottom-socials {
-  position: fixed;
-  bottom: 10px;      // Distance from bottom of screen
-  right: 20px;       // Moved to the right so it doesn't block text
-  z-index: 9999;     // Ensure it's above everything
-  pointer-events: none; 
+  position: fixed !important;
+  bottom: 20px !important; 
+  left: 0;
+  width: 100%;
+  z-index: 9999 !important; 
+  pointer-events: none;     
+  text-align: center;       
 
   .social {
-    text-align: right; // Change from base 'center' if you want it in a corner
-    margin-bottom: 0;
-    
+    display: inline-block;
+    pointer-events: auto;   
+    margin: 0;
+    text-align: center;
+
     .contact-icons {
-      pointer-events: auto;
-      font-size: 1.5rem; // Slightly smaller to be less intrusive while scrolling
+      font-size: 2rem; // Matches your _base.scss preference
       
       a i::before {
-        // Ensure visibility against different backgrounds
-        text-shadow: 0px 0px 5px var(--global-bg-color); 
+        // Adds a tiny shadow so icons are readable over text/images
+        text-shadow: 0px 0px 8px var(--global-bg-color);
       }
     }
-    
-    .contact-note {
-      display: none; // Usually best to hide the note in the fixed version
-    }
   }
-}
-
-// 2. Ensure the actual footer stays at the bottom of the page
-footer.sticky-bottom {
-  position: relative; // Ensures it stays in the document flow (bottom of page)
-  width: 100%;
-  margin-top: 5rem;
 }
 
 // TODO: redefine content layout.
