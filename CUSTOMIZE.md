@@ -43,6 +43,7 @@ The project is structured as follows, focusing on the main components that you w
 ├── 📂 _data/: contains some of the data used in the template
 │   ├── 📄 repositories.yml: users and repositories info in YAML format
 │   └── 📄 socials.yml: your social media and contact info in YAML format
+│   └── 📄 coauthors.yml: your coauthor in YAML format
 ├── 📂 _includes/: contains code parts that are included in the main HTML file
 ├── 📂 _layouts/: contains the layouts to choose from in the frontmatter of the Markdown files
 ├── 📂 _news/: the news that will appear in the news section in the about page
