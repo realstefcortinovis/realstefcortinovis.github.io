@@ -26,7 +26,7 @@ back_to_top: false # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
