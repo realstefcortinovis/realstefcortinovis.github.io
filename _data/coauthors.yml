@@ -1,8 +1,10 @@
-"François":
+"caron":
   - firstname: ["François", "F.", "Fran{\c{c}}ois}"]
+"caron":
+  - firstname: ["François", "F.", "Fran{\c{c}}ois"]
     url: https://www.stats.ox.ac.uk/~caron/
 
-"podolsky":
+"kilian":
   - firstname: ["Valentin", "V."]
     url: https://valentinkil.github.io
 
