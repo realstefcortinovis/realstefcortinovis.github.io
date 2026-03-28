@@ -48,12 +48,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-anytime-valid-bayes-assisted-prediction-powered-inference-was-accepted-at-neurips-2025",
           title: 'Our paper Anytime-valid, Bayes-assisted, Prediction-Powered Inference was accepted at NeurIPS 2025.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
