@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the Department of Statistics at the University of Oxford, supervised by [François Caron](https://www.stats.ox.ac.uk/~caron/) and [Mark van der Wilk](https://mvdw.uk/). My research sits at the intersection of statistics and machine learning, with a focus on uncertainty quantification and Bayesian inference.
+I am a PhD student in the Department of Statistics at the University of Oxford, supervised by [François Caron](https://www.stats.ox.ac.uk/~caron/) and [Mark van der Wilk](https://mvdw.uk/). My research sits at the intersection of statistics and machine learning, with a focus on uncertainty quantification and Bayesian inference.<i class="fas fa-graduation-cap"></i>
 
 A recurring theme in my work is *Bayes-assisted* methodology: incorporating prior information into frequentist procedures to improve their efficiency while maintaining their guarantees. In this context, I have been working on e-values and prediction-powered inference, developing methods that provide reliable uncertainty statements while leveraging modern ML models in sequential workflows. Looking ahead, I am excited to explore conformal prediction and generative modelling from similar perspectives.
 
