@@ -48,6 +48,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-anytime-valid-bayes-assisted-prediction-powered-inference-was-accepted-at-neurips-2025",
           title: 'Our paper Anytime-valid, Bayes-assisted, Prediction-Powered Inference was accepted at NeurIPS 2025.',
           description: "",
+          section: "News",},{id: "news-our-preprint-asymptotically-log-optimal-bayes-assisted-confidence-sequences-for-bounded-means-is-now-online",
+          title: 'Our preprint Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means is now online!...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
