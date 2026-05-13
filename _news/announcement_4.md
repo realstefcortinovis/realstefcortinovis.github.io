@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-01 07:59:00-0400
+date: 2025-10-28 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper [Inverse-Free Sparse Variational Gaussian Processes](https://openreview.net/forum?id=nFHpVRvOgH) was accepted at NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty.
+Our paper [Anytime-valid, Bayes-assisted, Prediction-Powered Inference](https://arxiv.org/abs/2505.18000) was accepted at NeurIPS 2025.

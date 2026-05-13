@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-28 07:59:00-0400
+date: 2025-05-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper [Anytime-valid, Bayes-assisted, Prediction-Powered Inference](https://arxiv.org/abs/2505.18000) was accepted at NeurIPS 2025.
+Our preprint [Confidence sequences with informative, bounded-influence priors](https://arxiv.org/abs/2506.22925) is now online!
