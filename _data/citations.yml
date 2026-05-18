@@ -1,24 +1,32 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-05-18'
 papers:
   2pcHzpgAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 4
     title: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
     year: '2025'
   2pcHzpgAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: 'Bayes-assisted Confidence Regions: Focal Point Estimator and Bounded-influence Priors'
     year: '2024'
   2pcHzpgAAAAJ:IjCSPb-OGe4C:
-    citations: 1
+    citations: 2
     title: Confidence sequences with informative, bounded-influence priors
     year: '2025'
+  2pcHzpgAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means
+    year: '2026'
   2pcHzpgAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: Inverse-Free Sparse Variational Gaussian Processes
     year: '2026'
+  2pcHzpgAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Variational predictive resampling
+    year: '2026'
   2pcHzpgAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: 'FAB-PPI: Frequentist, Assisted by Bayes, Prediction-Powered Inference'
     year: '2025'
   2pcHzpgAAAAJ:zYLM7Y9cAGgC:
