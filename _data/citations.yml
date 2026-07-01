@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-07-01'
 papers:
   2pcHzpgAAAAJ:2osOgNQ5qMEC:
-    citations: 4
+    citations: 5
     title: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
     year: '2025'
   2pcHzpgAAAAJ:9yKSN-GCB0IC:
@@ -22,11 +22,11 @@ papers:
     title: Inverse-Free Sparse Variational Gaussian Processes
     year: '2026'
   2pcHzpgAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: Variational predictive resampling
     year: '2026'
   2pcHzpgAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 7
     title: 'FAB-PPI: Frequentist, Assisted by Bayes, Prediction-Powered Inference'
     year: '2025'
   2pcHzpgAAAAJ:zYLM7Y9cAGgC:
