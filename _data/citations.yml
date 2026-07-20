@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-20'
 papers:
   2pcHzpgAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -20,6 +20,10 @@ papers:
   2pcHzpgAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: Inverse-Free Sparse Variational Gaussian Processes
+    year: '2026'
+  2pcHzpgAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Robust Bayes-Assisted Conformal Prediction
     year: '2026'
   2pcHzpgAAAAJ:Y0pCki6q_DkC:
     citations: 1
